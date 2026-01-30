@@ -1,0 +1,10 @@
+a:hover{
+    color:blue;
+    font-size: 1.1em;
+}
+a:active{
+    color:red;
+    font-size: 1.1em;
+}
+
+
